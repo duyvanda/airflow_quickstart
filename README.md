@@ -36,4 +36,4 @@ airflow scheduler
 ```
 
 ## Step 4: Go to airflow wd
-
+![Image](https://raw.githubusercontent.com/duyvantest/airflow_quickstart/main/images/airflow_wd.JPG)
