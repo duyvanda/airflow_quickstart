@@ -11,6 +11,7 @@ sudo apt install python3
 sudo apt install python3-pip
 sudo -H pip3 install --upgrade pip
 sudo pip3 install gunicorn
+sudo -H pip3 install --ignore-installed PyYAML
 sudo -H pip2 install --upgrade pip
 ```
 
