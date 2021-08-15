@@ -7,7 +7,7 @@ You need to follow WSL installation
 
 ```
 sudo apt update
-sudo apt install python3.6
+sudo apt install python3
 sudo apt install python3-pip
 sudo -H pip3 install --upgrade pip
 sudo -H pip2 install --upgrade pip
