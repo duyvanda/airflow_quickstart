@@ -50,3 +50,4 @@ airflow db init
 ```
 ## Step 7: Trigger task and see output
 Output file is at /home/duyvan
+Go into taskid writefile, click on the log tab to view the log and print statement
