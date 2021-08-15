@@ -37,3 +37,16 @@ airflow scheduler
 
 ## Step 4: Go to airflow wd
 ![Image](https://raw.githubusercontent.com/duyvantest/airflow_quickstart/main/images/airflow_wd.JPG)
+
+## Step 5: Create a dags folder inside ~/airflow
+![Image](https://raw.githubusercontent.com/duyvantest/airflow_quickstart/main/images/dagfolder.JPG)
+
+## Step 6: Write your first
+See writefile.py
+
+then run again
+```
+airflow db init
+```
+## Step 7: Trigger task and see output
+Output file is at /home/duyvan
