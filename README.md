@@ -54,3 +54,11 @@ airflow db init
 ## Step 7: Trigger task and see output
 Output file is at /home/duyvan
 Go into taskid writefile, click on the log tab to view the log and print statement
+
+## Note
+Example for setting up postgres db hosted on AWS
+
+```
+sql_alchemy_conn = postgresql+psycopg2://airflow_user:airflow_pass@ec2-18-142-161-134.ap-southeast-1.compute.amazonaws.com/airflow_db
+```
+[follow the instruction link:] (https://airflow.apache.org/docs/apache-airflow/stable/howto/set-up-database.html)
