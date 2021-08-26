@@ -61,4 +61,4 @@ Example for setting up postgres db hosted on AWS
 ```
 sql_alchemy_conn = postgresql+psycopg2://airflow_user:airflow_pass@ec2-18-142-161-134.ap-southeast-1.compute.amazonaws.com/airflow_db
 ```
-[follow the instruction link:] (https://airflow.apache.org/docs/apache-airflow/stable/howto/set-up-database.html)
+[follow the instruction link:](https://airflow.apache.org/docs/apache-airflow/stable/howto/set-up-database.html)
